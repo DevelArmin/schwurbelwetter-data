@@ -1,0 +1,1 @@
+{"schema":1,"type":"observed-clouds","source":"EUMETSAT MTG FCI GeoColour","projection":"EPSG:3857","bounds":[[43.0,-4.0],[58.0,21.0]],"generatedAt":"2026-11-08T09:05:38Z","latestObservation":"2026-11-08T08:40:00Z","cadenceMinutes":10,"complete":true,"frames":[{"time":"2026-11-08T08:40:00Z","file":"mtg-202611080840.webp","mode":"geocolour-rgb"}],"credit":"\u00a9 EUMETSAT / NASA"}
